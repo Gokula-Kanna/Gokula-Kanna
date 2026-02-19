@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Gokula-Kanna
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 You to reach me using this email gokulakanna250298@gmail.com
 
